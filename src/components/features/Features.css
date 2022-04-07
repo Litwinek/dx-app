@@ -1,0 +1,22 @@
+.features-content {
+    display: flex;
+    justify-content: center;
+}
+.features-left {
+    flex: 1;
+    text-align: center;
+}
+.features-left img {
+    width: 105%;
+    overflow-x: hidden;
+}
+.features-right {
+    flex: 1;
+    overflow-x: hidden;
+}
+@media screen and (max-width: 600px) {
+    .features-content {
+        flex-direction: column;
+        overflow-x: hidden;
+    }
+}
