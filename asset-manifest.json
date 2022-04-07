@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dx-app/static/css/main.abba605a.css",
+    "main.js": "/dx-app/static/js/main.b78fb3e5.js",
+    "static/media/phoneFeatures.png": "/dx-app/static/media/phoneFeatures.2d80ea6bee68bcda369c.png",
+    "static/media/bannerNewsletter.jpg": "/dx-app/static/media/bannerNewsletter.82782d21d44e02c1cd6a.jpg",
+    "static/media/phoneHeader.png": "/dx-app/static/media/phoneHeader.ff24a710780b5a7b7538.png",
+    "index.html": "/dx-app/index.html",
+    "main.abba605a.css.map": "/dx-app/static/css/main.abba605a.css.map",
+    "main.b78fb3e5.js.map": "/dx-app/static/js/main.b78fb3e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abba605a.css",
+    "static/js/main.b78fb3e5.js"
+  ]
+}
